@@ -14,3 +14,13 @@ interesting projects
 * Vanilla Javascript
 * Photoshop
 * Cit
+
+## Experience
+RS school
+
+## Education
+* Belarusian State University (2006-2011), Faculty of Chemistry
+* HTMLAcademy
+* Codecademy
+* MDN tutorials
+* learn.javascript.ru
