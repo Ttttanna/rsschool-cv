@@ -8,3 +8,9 @@
 programming languages, mostly in web-development technologies. I like
 self-education and often read IT-news. I want to work in team on
 interesting projects
+
+## Skills
+* HTML & CSS
+* Vanilla Javascript
+* Photoshop
+* Cit
