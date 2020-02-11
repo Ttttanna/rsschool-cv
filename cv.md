@@ -24,3 +24,6 @@ RS school
 * Codecademy
 * MDN tutorials
 * learn.javascript.ru
+
+## English
+B1 (according to EPAM training center test)
