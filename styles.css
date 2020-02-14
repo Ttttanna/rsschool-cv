@@ -1,0 +1,16 @@
+body {
+  background-color: linen;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1024px;
+}
+
+header {
+  position: relative;
+}
+
+main {
+  margin-top: 100px;
+}
