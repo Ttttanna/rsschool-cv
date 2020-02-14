@@ -1,0 +1,39 @@
+body {
+  background-color: linen;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1024px;
+}
+
+header {
+  position: relative;
+}
+
+main {
+  margin-top: 100px;
+}
+
+.image {
+  position: absolute;
+  margin-left: 500px;
+  width: 200px;
+  height: 200px;
+  border: 5px solid burlywood;
+  border-radius: 100px;
+  background-color: papayawhip;
+}
+
+section {
+  font-size: 20px;
+}
+
+li {
+  line-height: 1.5;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
